@@ -1,0 +1,15 @@
+.carousel {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .carousel-container {
+    display: flex;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .carousel-container img {
+    width: 100%;
+    height: auto;
+  }
+  
